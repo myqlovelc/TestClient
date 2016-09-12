@@ -1,0 +1,109 @@
+﻿<Configurations>
+    <IP>192.168.1.112</IP> <!-- Samsung S6 -->
+    <IP5>192.168.199.137</IP5> <!-- Samsung S6 -->
+    <IP4>192.168.199.108</IP4> <!-- Samsung S6 -->
+	<IP2>192.168.199.121</IP2> <!-- Samsung S6 -->
+	<IP1>192.168.199.143</IP1> <!-- Samsung S6 Edge-->
+	<IP6>192.168.1.104</IP6> <!-- Samsung Note4 brown -->
+	<IP3>192.168.199.246</IP3> <!-- Samsung Note4 white -->
+	<Device>0715f7c9cc6d4038</Device> <!-- Samsung S6 -->
+	<Device5>353765072114045</Device5> <!-- Samsung S6 -->
+	<Device2>990005771115673</Device2> <!-- Samsung S6 -->
+	<Device3>359596066858436</Device3> <!-- Samsung S6 Edge-->
+	<Device4>355848068438343</Device4> <!-- Samsung Note4 brown -->
+	<Device1>35584806035562</Device1> <!-- Samsung Note4 white -->
+	<VideoList>
+	    <Video>
+			<Name>cspng.mp4</Name>
+			<Code>111</Code>
+		</Video>
+	    <Video>
+			<Name>白宫圣诞之旅_VRtimes.cglvr</Name>
+			<Code>111</Code>
+		</Video>
+	    <Video>
+			<Name>Galaxy11 VR.cglvr</Name>
+			<Code>111</Code>
+		</Video>
+	    <Video>
+			<Name>myq1.cglvr</Name>
+			<Code>111</Code>
+		</Video>
+	    <Video>
+			<Name>cs1.mp4</Name>
+			<Code>111</Code>
+		</Video>
+	    <Video>
+			<Name>galaxy_1_10000.cglvr1</Name>
+			<Code>111</Code>
+		</Video>
+	    <Video>
+			<Name>bj_1_161.cglvr1</Name>
+			<Code>111</Code>
+		</Video>
+	    <Video>
+			<Name>png_1_10.cglvr1</Name>
+			<Code>111</Code>
+		</Video>
+	    <Video>
+			<Name>galaxy30.cglvr1</Name>
+			<Code>111</Code>
+		</Video>
+	    <Video>
+			<Name>galaxy2048.cglvr1</Name>
+			<Code>111</Code>
+		</Video>
+		<Video>
+			<Name>galaxy3072.cglvr1</Name>
+			<Code>111</Code>
+		</Video>
+		<Video>
+			<Name>galaxy4096.cglvr1</Name>
+			<Code>111</Code>
+		</Video>
+		<Video>
+			<Name>demo.mp4</Name>
+			<Code>8a5407fe4f5c6129e3f4b9e5a63888a4</Code>
+		</Video>
+		<Video>
+			<Name>galaxyEncrypt.cglvr1</Name>
+			<Code>fd6ac290af312322fb06b64c24c00fb7</Code>
+		</Video>
+		<Video>
+			<Name>cs.CGLVR1</Name>
+			<Code>089ee12606edb74d7cdd6af97e8ea93c</Code>
+		</Video>
+		<Video>
+			<Name>Galaxy11 VR.mp4</Name>
+			<Code>6D990D982FB5FB3B1BFC25A4C0832CC6</Code>
+		</Video>
+		<Video>
+			<Name>The Displaced.mp4</Name>
+			<Code>1F683C10E227E6DE098821B06F2089CF</Code>
+		</Video>
+		<Video>
+			<Name>theVRReport_talkshow.mp4</Name>
+			<Code>EAFFB25E054421AEE00465C7C387AF99</Code>
+		</Video>
+		<Video>
+			<Name>白宫圣诞之旅_VRtimes.mp4</Name>
+			<Code>BC13063669BA3A753C3A02D6DBA4A8B0</Code>
+		</Video>
+		<Video>
+			<Name>小门神.mp4</Name>
+			<Code>77EDB0517D741673200AB654013FCBE1</Code>
+		</Video>Assassin’s Creed Syndicate - Jack the Ripper.mp4
+		<Video>
+			<Name>Assassin’s Creed Syndicate - Jack the Ripper.mp4</Name>
+			<Code>58F408427C61331EF046ACC68A51FA05</Code>
+		</Video>
+		<Video>
+			<Name>help-1800x900.mp4</Name>
+			<Code>336AF43D72FACE8EEB640EEFF8F107E9</Code>
+		</Video>
+		<Video>
+			<Name>攻壳机动队新剧场版VR宣传视频.mp4</Name>
+			<Code>6A54B535BE1CE58259148388463806AE</Code>
+		</Video>
+	</VideoList>
+</Configurations>
